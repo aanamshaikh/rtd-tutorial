@@ -18,3 +18,5 @@ Contents
 
    usage
    api
+
+this documentation is hosted on Read the Docs.
